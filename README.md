@@ -25,23 +25,7 @@
 
    - [aiogram](https://github.com/aiogram/aiogram)
   
-  #### Node.js ბიბლიოთეკები:
-   
-   - [telegraf](https://github.com/telegraf/telegraf)
-
-   - [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)
   
-  #### Go (Golang):
-       
-     - [telebot](https://github.com/tucnak/telebot)
-
-  #### Java:
-  
-   - [TelegramBots](https://github.com/rubenlagus/TelegramBots)
-
-   #### C#:
-   
-   - [Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot)
 
 ### 4. ბოტის პროგრამირება
    
