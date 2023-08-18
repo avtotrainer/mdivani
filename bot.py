@@ -7,3 +7,5 @@ def start(message):
     bot.send_message(message.chat.id, 'ვაა, ბარო')
 
 bot.polling(non_stop=True)
+
+# დავამატე კომენტარი
